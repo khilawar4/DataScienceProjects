@@ -14,7 +14,7 @@ tabtitle='beer!'
 myheading='Khilawar proj1'
 label1='IBU'
 label2='ABV'
-githublink='https://github.com/austinlasseter/flying-dog-beers'
+githublink='https://github.com/khilawar4/DataScienceProjects'
 sourceurl='https://www.flyingdog.com/beers/'
 
 ########### Set up the chart
